@@ -1,3 +1,3 @@
 conflict file
 Github file conflict
-AIX file conflict
+AIX file
