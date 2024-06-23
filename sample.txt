@@ -1,1 +1,3 @@
-My first file in GIT
+My first file in GIT.
+Welcome to GIT & Jenkins
+
