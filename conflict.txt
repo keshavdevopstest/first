@@ -1,3 +1,7 @@
 conflict file
+<<<<<<< HEAD
 Github file conflict
 AIX file
+=======
+AIX file conflict
+>>>>>>> 6cbcf51 (aix commit)
