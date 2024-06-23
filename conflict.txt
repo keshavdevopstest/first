@@ -1,2 +1,2 @@
 conflict file
-Github file
+Github file conflict
